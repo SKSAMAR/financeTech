@@ -7,5 +7,6 @@ import org.springframework.boot.runApplication
 class FinancetechApplication
 
 fun main(args: Array<String>) {
+	//just a check update
 	runApplication<FinancetechApplication>(*args)
 }
